@@ -1,0 +1,47 @@
+body{
+    background-color: #daacac;
+    background-image: url(feed.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.qwer{
+    width: 830px;
+    height: 700px;
+    border: 1px solid rgb(221, 216, 216);
+    margin: 30px auto;
+}
+h1{
+    font-size: 70px;
+    color: rgb(18, 13, 13);
+    text-align: center;
+    border-bottom: 2px solid whitesmoke;
+}
+table{
+    font-size: 30px;
+    margin: 4px;
+}
+td{
+   padding: 10px 20px 0px 0px;
+}
+.txt{
+    width: 300px;
+    height: 35px;
+    border-radius: 8px ;
+    margin-left: 45px;
+}
+.txtarea{
+    width: 800px;
+    height: 80px;
+    border-radius: 8px ;
+    margin-left: 10px;
+}
+.btn{
+    width: 800px;
+    height: 50px;
+    background-color: rgb(173, 7, 7);
+    border-radius: 8px;
+    font-size: 20px;
+    color: whitesmoke;
+    margin-left: 10px;
+}
